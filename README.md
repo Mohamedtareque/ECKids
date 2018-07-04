@@ -1,6 +1,6 @@
 ## Elctronics Course for kids 
 
-![Image of Yaktocat](https://qph.fs.quoracdn.net/main-qimg-c95ab6fc9509c4265ce70e600010ab69)
+![Image of Yaktocat](https://www.safaribooksonline.com/library/view/electronics-for-kids/9781492017479/images/common01.jpg)
 
 this course is prepared by [mohamed Tarek](https://kotozship.blogspot.com/) to improve mental skills and study habits ,Electronics is one of the key foundational skills to teach kids since a basic understanding of electronics is essential to move on to many great computing and robotics projects. However, it is challenging to teach this to kids in an intuitive way and there are many robotics products like Lego Mindstorms where the electronic components are very modular and allow kids to piece components together without understanding the electronics behind them.
 
