@@ -23,5 +23,6 @@ Traditionally electronics classes are a great way to start building simple circu
 [Electronic circuits for eveil genius 64 lessons with projects](https://drive.google.com/file/d/1uYQ3PFaqfWo1i9iB0cs_pjxejLHk3pPC/view?usp=sharing)
 
 ### Course appoinments 
-> Satrday - monday - Wednesday at 12:00 PM 
+> Satrday - monday - Wednesday  
+> - 12:00 PM 
 > - 03:00 PM
