@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Elctronics Course for kids 
 
 You can use the [editor on GitHub](https://github.com/Mohamedtareque/ECKids/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
