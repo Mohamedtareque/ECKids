@@ -12,29 +12,17 @@ Traditionally electronics classes are a great way to start building simple circu
 
 ![course structure](https://image.ibb.co/dv9A2J/d.png)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### course Materials
+*
+*
+*
+### course Assignments
+*
+*
+*
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](https://ar-ar.facebook.com/Kidzemo.Academy/)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mohamedtareque/ECKids/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
