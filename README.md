@@ -14,16 +14,9 @@ Traditionally electronics classes are a great way to start building simple circu
 
 
 ### course Materials
-*
-*
-*
+[First day slides](https://drive.google.com/file/d/1HeCYUOFKsiPrlb5N9OdwGaoVp5CS0qhy/view?usp=sharing)
 ### course Assignments
-*
-*
-*
+[assignment 1](https://drive.google.com/file/d/1wfTuAsv0-dDg6vS2Rul8BrYB_MNll2FW/view?usp=sharing)
+### Books 
+[Electronic circuits for eveil genius 64 lessons with projects](https://drive.google.com/file/d/1uYQ3PFaqfWo1i9iB0cs_pjxejLHk3pPC/view?usp=sharing)
 
-
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
