@@ -26,3 +26,10 @@ Traditionally electronics classes are a great way to start building simple circu
 > Satrday - monday - Wednesday  
 > - 12:00 PM 
 > - 03:00 PM
+
+## Activities
+
+![Brothers](https://image.ibb.co/cLzFMd/IMG_20180704_211309.jpg)
+![Brothers](https://image.ibb.co/mDPt7J/IMG_20180704_211343.jpg)
+![Brothers](https://image.ibb.co/dNBC1d/IMG_20180704_211500.jpg)
+![Brothers](https://image.ibb.co/ntcfnJ/IMG_20180704_211535.jpg)
