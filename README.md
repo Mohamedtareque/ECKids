@@ -1,5 +1,5 @@
 ## Elctronics Course for kids 
-
+![Image of Yaktocat](https://qph.fs.quoracdn.net/main-qimg-c95ab6fc9509c4265ce70e600010ab69)
 this course is prepared by [mohamed Tarek](https://kotozship.blogspot.com/) to improve mental skills and study habits ,Electronics is one of the key foundational skills to teach kids since a basic understanding of electronics is essential to move on to many great computing and robotics projects. However, it is challenging to teach this to kids in an intuitive way and there are many robotics products like Lego Mindstorms where the electronic components are very modular and allow kids to piece components together without understanding the electronics behind them.
 
 As our kids get older, I would like to start doing projects with some of the single-board computer kits that are very popular right now such as the Beagleboard, Raspberry Pi, or Arduino. But first, we need to teach them electronics.
@@ -7,7 +7,6 @@ As our kids get older, I would like to start doing projects with some of the sin
 Traditionally electronics classes are a great way to start building simple circuits with batteries, light bulbs, and motors. The biggest challenge to hold kids’ attention is it is difficult to experiment quickly. What happens if we change the value of a resistor? Depending on whether you are soldering, wrapping wires, or using a breadboard, it can be difficult to make changes like this quickly in a way that is easy for kids to understand 
 
 ### course structure
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ```markdown
 Syntax highlighted code block
 
