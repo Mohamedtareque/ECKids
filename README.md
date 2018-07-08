@@ -23,7 +23,7 @@ Traditionally electronics classes are a great way to start building simple circu
 ### course Assignments
   [assignment 1](https://drive.google.com/file/d/1wfTuAsv0-dDg6vS2Rul8BrYB_MNll2FW/view?usp=sharing)
 ### Books 
-  [Electronic circuits for eveil genius 64 lessons with projects]     (https://drive.google.com/file/d/1uYQ3PFaqfWo1i9iB0cs_pjxejLHk3pPC/view?usp=sharing)
+  [Electronic circuits for eveil genius 64 lessons with projects](https://drive.google.com/file/d/1uYQ3PFaqfWo1i9iB0cs_pjxejLHk3pPC/view?usp=sharing)     
 
 ### Course appoinments 
 > Satrday - monday - Wednesday  
